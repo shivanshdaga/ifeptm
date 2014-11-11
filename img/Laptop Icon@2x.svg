@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192px" height="110px" viewBox="0 0 192 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Laptop Icon</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Bonjour" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-147.000000, -2964.000000)">
+            <g id="Seattle-Facts" sketch:type="MSLayerGroup" transform="translate(4.000000, 2170.000000)">
+                <g id="The-Most-College-Deg-+-This-could-have-some-2" transform="translate(109.000000, 719.000000)" sketch:type="MSShapeGroup">
+                    <g id="Laptop-Icon" transform="translate(34.000000, 75.000000)">
+                        <path d="M166.583333,0 L25.4166667,0 C21.8733833,0 19,2.86528 19,6.4 L19,96 L173,96 L173,6.4 C173,2.86528 170.126617,0 166.583333,0" id="Fill-3" fill="#3B4250"></path>
+                        <path d="M0,97 C0,104.17925 5.73686037,110 12.8126418,110 C12.82097,110 12.8299389,109.99935 12.8382671,109.99935 L12.8382671,110 L179.187999,110 C186.264421,110 192,104.17925 192,97 L0,97" id="Fill-4" fill="#D8D8DA"></path>
+                        <path d="M166.714286,5 C167.422714,5 168,5.57632836 168,6.28358209 L168,91 L24,91 L24,6.28358209 C24,5.57632836 24.5766429,5 25.2857143,5 L166.714286,5 L166.714286,5 Z M166.583333,0 L25.4166667,0 C21.8733833,0 19,2.86528 19,6.4 L19,96 L173,96 L173,6.4 C173,2.86528 170.126617,0 166.583333,0 L166.583333,0 Z" id="Fill-5" fill="#242C3C"></path>
+                        <path d="M77,97 C77,100.3132 79.6874,103 83,103 L83,97 L77,97" id="Fill-6" fill="#95989F"></path>
+                        <path d="M109,103 C112.3138,103 115,100.3132 115,97 L109,97 L109,103" id="Fill-7" fill="#95989F"></path>
+                        <path d="M102.516209,97 L89.4837905,97 C89.4837905,100.3132 86.5816459,103 83,103 L109,103 C105.418354,103 102.516209,100.3132 102.516209,97" id="Fill-8" fill="#95989F"></path>
+                        <path d="M89,97 L83,97 L83,103 C86.3144,103 89,100.3132 89,97" id="Fill-9" fill="#95989F"></path>
+                        <path d="M103,97 C103,100.3132 105.6856,103 109,103 L109,97 L103,97" id="Fill-10" fill="#95989F"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
