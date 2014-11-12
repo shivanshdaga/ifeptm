@@ -475,6 +475,11 @@ CITY DESCRIPTION AND FACTS CONTENTS
   line-height: 1.8125em;
   font-size: 1.124375em;
 }
+.city-description i {
+	
+  font-style:italic;
+  }
+	
 
 
 .flex-container,
